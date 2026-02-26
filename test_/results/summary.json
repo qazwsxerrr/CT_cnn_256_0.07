@@ -1,0 +1,52 @@
+{
+  "summary": {
+    "F_shape": [
+      441
+    ],
+    "Phi_shape": [
+      441,
+      441
+    ],
+    "G_shape": [
+      441,
+      441
+    ],
+    "verification_passed": true,
+    "verification_error": 0.0
+  },
+  "value_ranges": {
+    "F_real": [
+      -15.052770614624023,
+      26.107463836669922
+    ],
+    "F_imag": [
+      -16.27854347229004,
+      23.377479553222656
+    ],
+    "Phi_diagonal": [
+      1.067143803878956e-10,
+      1.0
+    ],
+    "coefficients": [
+      -2.5849502086639404,
+      2.366417407989502
+    ],
+    "image": [
+      -2.4639604091644287,
+      2.1372451782226562
+    ],
+    "d_vector": [
+      -2.5849502086639404,
+      2.366417407989502
+    ]
+  },
+  "properties": {
+    "f_is_real": true,
+    "d_is_real": true,
+    "Phi_is_diagonal": true,
+    "Phi_is_complex": true,
+    "G_is_complex": true,
+    "G_unitary_property": false,
+    "F_is_complex": true
+  }
+}
